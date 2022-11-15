@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Usman-Ahmad-99
+- 👋 Hi, I’m Usman Ahmad
 - 👀 I’m interested in Web deveolopment
 - 🌱 I’m currently learning React
 - 📫 How to reach me usman.ahmad.9269@gmail.com
