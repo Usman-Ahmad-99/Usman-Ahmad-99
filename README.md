@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usman Ahmad
 - 👀 I’m interested in Web deveolopment
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on Angular and React
 - 📫 How to reach me usman.ahmad.9269@gmail.com
 
 <!---
